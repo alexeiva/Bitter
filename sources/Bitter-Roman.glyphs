@@ -1,5 +1,5 @@
 {
-.appVersion = "913";
+.appVersion = "924";
 classes = (
 {
 automatic = 1;
@@ -723,11 +723,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1049;
+value = 1198;
 },
 {
 name = winDescent;
-value = 0;
+value = 365;
 },
 {
 name = hheaAscender;
@@ -786,11 +786,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1049;
+value = 1198;
 },
 {
 name = winDescent;
-value = 0;
+value = 365;
 },
 {
 name = hheaAscender;
