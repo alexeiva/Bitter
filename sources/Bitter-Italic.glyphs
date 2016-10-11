@@ -1,5 +1,5 @@
 {
-.appVersion = "919";
+.appVersion = "926";
 classes = (
 {
 automatic = 1;
@@ -10,21 +10,34 @@ name = Uppercase;
 copyright = "Copyright (c) 2011-2015, Sol Matas (www.huertatipografica.com), with Reserved Font Name \"Bitter\". Copyright (c) Bitter project Authors";
 customParameters = (
 {
-name = openTypeNameLicenseURL;
-value = "http://scripts.sil.org/OFL";
-},
-{
 name = trademark;
 value = "Bitter is a trademark of Sol Matas (www.huertatipografica.com.ar).";
 },
 {
-name = openTypeNameLicense;
+name = license;
 value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = openTypeOS2VendorID;
+value = UKWN;
 }
 );
-date = "2016-08-26 13:49:14 +0000";
+date = "2016-10-11 17:48:53 +0000";
 designer = "Sol Matas, and Bitter project Authors";
-designerURL = www.huertatipografica.com;
+designerURL = "http://www.huertatipografica.com";
 familyName = Bitter;
 featurePrefixes = (
 {
@@ -36,7 +49,7 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature locl;\012feature sups;\012feature frac;\012feature ordn;\012feature ccmp;\012feature case;\012";
+code = "feature ccmp;\012feature locl;\012feature sups;\012feature frac;\012feature ordn;\012feature case;\012";
 name = aalt;
 },
 {
@@ -115,7 +128,7 @@ value = 1049;
 },
 {
 name = winDescent;
-value = 0;
+value = 365;
 },
 {
 name = hheaAscender;
@@ -175,7 +188,7 @@ value = 1049;
 },
 {
 name = winDescent;
-value = 0;
+value = 365;
 },
 {
 name = hheaAscender;
@@ -567,7 +580,7 @@ unicode = 0100;
 },
 {
 glyphname = Aogonek;
-lastChange = "2016-08-18 14:48:36 +0000";
+lastChange = "2016-10-11 17:49:51 +0000";
 layers = (
 {
 components = (
@@ -592,8 +605,8 @@ nodes = (
 "530 -124 CURVE SMOOTH",
 "530 -67 OFFCURVE",
 "655 0 OFFCURVE",
-"655 0 CURVE",
-"577 0 LINE",
+"655 0 CURVE SMOOTH",
+"577 0 LINE SMOOTH",
 "577 0 OFFCURVE",
 "450 -55 OFFCURVE",
 "450 -145 CURVE SMOOTH",
@@ -49852,11 +49865,11 @@ unicode = 0020;
 },
 {
 glyphname = nbspace;
-lastChange = "2016-08-18 14:48:36 +0000";
+lastChange = "2016-10-11 17:48:46 +0000";
 layers = (
 {
 layerId = "89F00A14-383C-41A8-AF30-A12CE933D7AF";
-width = 280;
+width = 250;
 },
 {
 layerId = "6959900B-8A08-4E04-B0F8-C63132552E7A";
@@ -49869,11 +49882,11 @@ unicode = 00A0;
 },
 {
 glyphname = CR;
-lastChange = "2016-08-18 14:48:36 +0000";
+lastChange = "2016-10-11 17:48:46 +0000";
 layers = (
 {
 layerId = "89F00A14-383C-41A8-AF30-A12CE933D7AF";
-width = 300;
+width = 250;
 },
 {
 layerId = "6959900B-8A08-4E04-B0F8-C63132552E7A";
@@ -58375,20 +58388,6 @@ width = 804;
 );
 },
 {
-glyphname = NULL;
-lastChange = "2016-08-18 14:50:22 +0000";
-layers = (
-{
-layerId = "89F00A14-383C-41A8-AF30-A12CE933D7AF";
-width = 600;
-},
-{
-layerId = "6959900B-8A08-4E04-B0F8-C63132552E7A";
-width = 600;
-}
-);
-},
-{
 glyphname = foundryicon;
 lastChange = "2016-08-18 14:50:22 +0000";
 layers = (
@@ -58575,6 +58574,21 @@ nodes = (
 width = 757;
 }
 );
+},
+{
+glyphname = NULL;
+lastChange = "2016-10-11 17:48:46 +0000";
+layers = (
+{
+layerId = "89F00A14-383C-41A8-AF30-A12CE933D7AF";
+width = 0;
+},
+{
+layerId = "6959900B-8A08-4E04-B0F8-C63132552E7A";
+width = 0;
+}
+);
+unicode = 0000;
 }
 );
 instances = (
@@ -58595,6 +58609,7 @@ instanceInterpolations = {
 };
 isBold = 1;
 isItalic = 1;
+linkStyle = Bold;
 name = "Bold Italic";
 weightClass = Bold;
 }
@@ -59338,7 +59353,7 @@ ygrave = {
 };
 };
 manufacturer = "Sol Matas";
-manufacturerURL = www.huertatipografica.com;
+manufacturerURL = "http://www.huertatipografica.com";
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
