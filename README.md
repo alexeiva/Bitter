@@ -14,6 +14,14 @@ Early versions of the Italic and Bold styles were added in December 2011 and wil
 
 Designed by Sol Matas for Huerta Tipográfica
 
+### Downloads
+
+* [View Bitter on Google Fonts](https://fonts.google.com/specimen/Bitter)
+
+* [Download TTF/OTFs from git](https://github.com/alexeiva/Bitter/releases/tag/v.2.110)
+
+* [Download Bitter from Huerta Tipográfica](http://huertatipografica.com/en/fonts/bitter-ht)
+
 ### Vietnamese
 
 Vietnamese support was added by Nhung Nguyen <vns.wonderland@gmail.com> on 30 September 2016. 
