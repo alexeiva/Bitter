@@ -21611,6 +21611,9 @@ paths = (
 {
 closed = 1;
 nodes = (
+"128 0 LINE",
+"255 179 LINE",
+"339 -5 LINE",
 "510 5 LINE",
 "523 84 LINE",
 "447 98 LINE",
@@ -21627,10 +21630,7 @@ nodes = (
 "190 275 LINE",
 "54 103 LINE",
 "-13 80 LINE",
-"-26 0 LINE",
-"128 0 LINE",
-"255 179 LINE",
-"339 -5 LINE"
+"-26 0 LINE"
 );
 }
 );

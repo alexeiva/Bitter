@@ -54,7 +54,14 @@ info@solmatas.com
 
 ChangeLog
 
-26 August (v.2.000) Cyreal 
+14 October 2016 (v.2.110)
+— Merged in Veitnamese glyphs, and mastered files. Minor design fixes. 
+— Inherited legacy vertical metrics from (v.1.001)
+
+30 September 2016 (v.2.100) Nhung Nguyen
+— Added Vietnamese support
+
+26 August 2016 (v.2.000) Cyreal 
 — Expanded glyph set to GF Cyrillic Plus, Pro, and localised variants
 — Revised Cyrillic spacing
 — Revised Cyrillic glyphs 
@@ -70,9 +77,13 @@ This list is in alphabetical order.
 N: Sol Matas
 E: info@solmatas.com
 W: http://www.huertatipografica.com.ar
-D: Designer
+D: Original Designer
 
 N: Cyreal
 E: contact@cyreal.org
 W: http://cyreal.org
-D: Expansion to GF Cyrillic Pro
+D: Expansion to GF Cyrillic Pro, Plus, and localised glyphs
+
+N: Nhung Nguyen
+E: vns.wonderland@gmail.com
+D: Adding Vietnamese support 
