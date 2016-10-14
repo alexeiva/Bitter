@@ -228,7 +228,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1049;
+value = 1198;
 },
 {
 name = winDescent;
@@ -291,7 +291,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1049;
+value = 1198;
 },
 {
 name = winDescent;
@@ -1062,7 +1062,7 @@ name = A;
 },
 {
 name = circumflexcomb_hookabovecomb.case;
-transform = "{1, 0, 0, 1, 147, 189}";
+transform = "{1, 0, 0, 1, 147, 165}";
 }
 );
 layerId = "708C77EA-8E11-4C15-94D7-0069457547BC";
