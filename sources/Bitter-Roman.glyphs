@@ -212,19 +212,19 @@ capHeight = 700;
 customParameters = (
 {
 name = hheaDescender;
-value = -225;
+value = -265;
 },
 {
 name = typoDescender;
-value = -225;
+value = -265;
 },
 {
 name = hheaLineGap;
-value = 250;
+value = 0;
 },
 {
 name = typoLineGap;
-value = 250;
+value = 0;
 },
 {
 name = winAscent;
@@ -236,11 +236,11 @@ value = 365;
 },
 {
 name = hheaAscender;
-value = 775;
+value = 935;
 },
 {
 name = typoAscender;
-value = 775;
+value = 935;
 }
 );
 descender = -230;
@@ -249,6 +249,11 @@ horizontalStems = (
 85
 );
 id = UUID0;
+userData = {
+noodleExtremesAndInflections = 1;
+noodleRemoveOverlap = 1;
+noodleThickness = "10.0, 20.0";
+};
 verticalStems = (
 100,
 105,
@@ -270,19 +275,19 @@ capHeight = 705;
 customParameters = (
 {
 name = hheaDescender;
-value = -225;
+value = -265;
 },
 {
 name = typoDescender;
-value = -225;
+value = -265;
 },
 {
 name = hheaLineGap;
-value = 250;
+value = 0;
 },
 {
 name = typoLineGap;
-value = 250;
+value = 0;
 },
 {
 name = winAscent;
@@ -294,11 +299,11 @@ value = 365;
 },
 {
 name = hheaAscender;
-value = 775;
+value = 935;
 },
 {
 name = typoAscender;
-value = 775;
+value = 935;
 }
 );
 descender = -230;
