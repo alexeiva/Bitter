@@ -18,7 +18,7 @@ Designed by Sol Matas for Huerta Tipográfica
 
 * [View Bitter on Google Fonts](https://fonts.google.com/specimen/Bitter)
 
-* [Download TTF/OTFs from git](https://github.com/alexeiva/Bitter/releases/tag/v.2.110)
+* [Download TTF/OTFs from git](https://github.com/solmatas/Bitter/releases/tag/v.2.110)
 
 * [Download Bitter from Huerta Tipográfica](http://huertatipografica.com/en/fonts/bitter-ht)
 
@@ -30,7 +30,7 @@ Vietnamese support was added by Nhung Nguyen <vns.wonderland@gmail.com> on 30 Se
 
 Core Cyrillic glyphs were drawn by Sol Matas in 2013 with consultancy from Alexei Vanyashin. 
 
-Bitter has been expanded to GF Cyrillic Plus, Pro and localised language variants (Bulgarian, Serbian, Macedonian) on 26 August 2016 (v.2.000) by Cyreal [ [Cyreal.org](Cyreal.org) ]
+Bitter has been expanded to GF Cyrillic Plus, Pro and localised language variants (Bulgarian, Serbian, Macedonian) on 26 August 2016 (v.2.000) by Cyreal [ [Cyreal.org](http://www.cyreal.org/) ]
 
 ### Copyright
 
