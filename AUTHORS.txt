@@ -6,7 +6,7 @@
 # Name or Organization <email address>
 # The email address is not required for organizations.
 
-Sol Matas <sol@huertatipografica.com.ar>
+Sol Matas <sol@huertatipografica.com>
 Cyreal <contact@cyreal.org>
 
 
